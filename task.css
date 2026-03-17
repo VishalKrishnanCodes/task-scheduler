@@ -45,3 +45,8 @@ main {
     border-radius: 3px;
     cursor: pointer;
 }
+
+.task button.delete-task{
+    background-color: #dc3545;
+    margin-left: 5px;
+}
